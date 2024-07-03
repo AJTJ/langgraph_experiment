@@ -1,0 +1,4 @@
+langchain_anthropic==0.1.19
+langgraph==0.1.5
+python-dotenv==1.0.1
+typing_extensions==4.12.2
